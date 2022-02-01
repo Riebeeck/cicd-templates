@@ -1,5 +1,4 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import abs
 from pyspark.sql.functions import pandas_udf, PandasUDFType
 import pandas as pd
 

@@ -1,4 +1,5 @@
 # Databricks Labs CI/CD Templates
+Author: Peter Tamisin
 
 This repository provides a template for automated Databricks CI/CD pipeline creation and deployment.
 
